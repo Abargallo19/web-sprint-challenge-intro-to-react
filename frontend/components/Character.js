@@ -7,6 +7,7 @@ function Character() { // ❗ Add the props
     <div>
       {/* Use the same markup with the same attributes as in the mock */}
     </div>
+   
   )
 }
 
